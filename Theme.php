@@ -12,16 +12,4 @@ class Theme extends BaseMinc\Theme{
         return __DIR__;
     }
 
-    // function _init() {
-
-    //     parent::_init();
-    //     $app = App::i();
-
-
-    // }
-
-    protected function _getSpaceMetadata() {
-        return [];
-    }
-
 }
